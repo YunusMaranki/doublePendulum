@@ -1,0 +1,1 @@
+![doublePendulum](doublePendulum.gif)
